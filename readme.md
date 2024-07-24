@@ -1,5 +1,13 @@
-# Training Days
+# Random Event Generator
 
-As a seasoned athlete, one of your favorite activities is running marathons. You use a service called Training Days that sends you a message for the event you signed up for and the days you have left to train.
+A JavaScript application that randomly assigns athletic events to participants and calculates the number of training days required for each event. The results are displayed on the web page.
 
-Since you also code, Training Days has asked you to help them solve a problem: The program currently uses the wrong scope for its variables. They know this can be troublesome as their service evolves. In this project you will make Training Days more maintainable and less error-prone by fixing variable scopes.
+## Introduction
+
+The Random Event Generator project assigns random athletic events (Marathon, Triathlon, Pentathlon) to participants and calculates the required training days for each event. The results are displayed dynamically on the web page.
+
+## Features
+
+- Randomly assigns an event (Marathon, Triathlon, Pentathlon) to each participant.
+- Calculates the number of training days required for the assigned event.
+- Displays the event and training days for each participant.
